@@ -6,7 +6,7 @@
 - CodeIgniter version 2.x 
 - Wamp or Xampp latest version.
 
-# will added other requirement to help other memebers can setup project.
+# Will added other requirement to help other memebers can setup project.
 
 Now we can wish for project finish asap. Enjoy your time!.
 
